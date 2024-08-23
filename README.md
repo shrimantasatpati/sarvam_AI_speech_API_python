@@ -11,4 +11,5 @@
 # The Sarvam AI API documentation:
 - https://docs.sarvam.ai/api-reference-docs/introduction
 
-# Credits: https://www.sarvam.ai/
+# Credits:
+- https://www.sarvam.ai/
