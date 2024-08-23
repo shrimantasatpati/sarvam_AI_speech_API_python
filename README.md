@@ -1,4 +1,4 @@
-Inference of Sarvam AI API Endpoints
+Inference of **Sarvam AI API** Endpoints
 - POST Speech to Text
 - POST Translate Text
 - POST Text to Speech
